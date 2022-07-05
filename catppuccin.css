@@ -161,9 +161,9 @@ defs mask rect,
 .FormConfirmButtonV2-container.FormConfirmButtonV2-container-type-gilded,
 .RangeSlider-container-type-gilded .RangeSlider-selected-rail {
     background-image: none !important;
-    background-color: #585b70 !important;
+    background-color: #a6e3a1 !important;
     box-shadow: none !important;
-    border: solid 1px #585b70;
+    border: solid 1px #a6e3a1;
 }
 .ChatChannelInput-editor,
 .DraftInputWithTitleV2-title-wrapper,
@@ -234,8 +234,8 @@ defs mask rect,
 .TeamListItemsInput-icon svg,
 .ReactionPickerNavbarItem:hover .ReactionPickerNavbarItem-icon,
 .ContextMenuItem-container.ContextMenuItem-highlighted .ContextMenuItem-icon, .ContextMenuItem-container.ContextMenuItem-highlighted .ContextMenuItem-label {
-    fill: #b4befe !important;
-    color: #b4befe;
+    fill: #a6e3a1 !important;
+    color: #a6e3a1;
 }
 .BlockQuoteContainerRenderer,
 .CustomFormSummaryTextResponse-container {
@@ -245,8 +245,8 @@ defs mask rect,
 .CheckboxV2-container-checked .CheckboxV2-box,
 .VerticalSelectionIndicator-container,
 .FullSizedCalendarDayHeader-date-today {
-    background-color: #b4befe;
-    border-color: #b4befe;
+    background-color: #a6e3a1;
+    border-color: #a6e3a1;
 }
 .CheckmarkIcon-container-clickable:hover.CheckmarkIcon-container-selected .CheckmarkIcon-circle {
     background-color: rgba(205, 205, 242, .75);
@@ -303,7 +303,7 @@ defs mask rect,
 .ChannelActivityDisplay-group-header,
 .BannerWithButton-container,
 .ChatV2MessageReplyTooltip-content-wrapper, .ChatV2MessageReplyTooltip-arrow {
-    background-color: #585b70;
+    background-color: #a6e3a1;
 }
 .SwitchInput-container-on .SwitchInput-slide {
     background-color: #a6e3a1;
@@ -511,9 +511,15 @@ defs mask rect,
     border: none;
 }
 .UserProfilePictureControl-online-status {
-    border-radius: 75%;
+    border-radius: 95%;
     right: 0px;
+    color: a6e3a1;
 }
 .ProgressiveLoadedImage-container {
     border-radius: 15px;
 }
+/* Enable for preview with Redacted font
+* {
+    font-family: 'Redacted' !important;
+}
+*/

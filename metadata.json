@@ -1,9 +1,9 @@
 {
-    "id": "outerspace",
-    "name": "Outer Space",
-    "author": "Pm7NgbMd",
-    "version": "0.3",
-    "files": "outerspace.css",
+    "id": "catppuccin",
+    "name": "Catppuccin",
+    "author": "R40y3pEd",
+    "version": "0.1",
+    "files": "catppuccin.css",
     "banner": "banner.png",
     "images": ["preview.png"]
 }
