@@ -1,0 +1,9 @@
+{
+    "id": "outerspace",
+    "name": "Outer Space",
+    "author": "Pm7NgbMd",
+    "version": "0.3",
+    "files": "outerspace.css",
+    "banner": "banner.png",
+    "images": ["preview.png"]
+}
