@@ -23,6 +23,8 @@
 3. Select `import theme` and browse to where you cloned Catppuccin
 4. Select it
 
+Changing the theme can be done by editing `metadata.json` file to point to a different file.
+
 
 ## 🙋 FAQ (optional)
 
