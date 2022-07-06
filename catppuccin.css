@@ -115,7 +115,7 @@ font-family: 'Nunito', sans-serif;
 .TypeaheadMenu-container,
 .TournamentSettingsSupportStaff-container,
 .TournamentSettingsBracket-container {
-    background-color: #45475a !important;
+    background-color: #313244 !important;
 }
 .TeamNavHeaderRowButton-container,
 .TransientMenu-container {
@@ -141,7 +141,7 @@ defs mask rect,
 .UserProfilePictureControl-picture,
 .DraftInputWithTitleV2-creator-image,
 .LoggedInUserAvatar-picture {
-    border-radius: 25% !important;
+    border-radius: 42% !important;
     rx: 25%;
     ry: 25%;
 }
@@ -303,7 +303,7 @@ defs mask rect,
 .ChannelActivityDisplay-group-header,
 .BannerWithButton-container,
 .ChatV2MessageReplyTooltip-content-wrapper, .ChatV2MessageReplyTooltip-arrow {
-    background-color: #a6e3a1;
+    background-color: #181825;
 }
 .SwitchInput-container-on .SwitchInput-slide {
     background-color: #a6e3a1;
@@ -517,6 +517,9 @@ defs mask rect,
 }
 .ProgressiveLoadedImage-container {
     border-radius: 15px;
+}
+.NavV4Footer-footer-content, .NavV4Footer-right {
+    border-radius: 0px 15px 0px 0px;
 }
 /* Enable for preview with Redacted font
 * {
