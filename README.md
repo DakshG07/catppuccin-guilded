@@ -24,6 +24,8 @@
 4. Select it
 
 Changing the theme can be done by editing `metadata.json` file to point to a different file.
+For your convinience, the default theme is already set to `mocha`. (Since it is the most popular theme)
+**LATTE IS CURRENTLY BROKEN**
 
 
 ## 🙋 FAQ (optional)
